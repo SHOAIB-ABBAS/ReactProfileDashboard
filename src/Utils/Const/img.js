@@ -1,6 +1,6 @@
 let data = [
   {
-    name: "Chisom Chukwukwe",
+    name: "shoaib",
     profession: "UI/UX Designer",
     description:
       "Hardworking and reliable UI/UX designer focused on going above and beyond to support teams and serve customers.",
